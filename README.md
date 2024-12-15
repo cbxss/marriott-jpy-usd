@@ -2,6 +2,7 @@
 
 ## Description
 This Tampermonkey script automatically converts Japanese Yen prices on the [Marriott website](https://www.marriott.com/) into US Dollars and displays the converted value next to the yen price.
+![image](https://github.com/user-attachments/assets/b0114603-891c-493f-b6e2-c5e93966fc38)
 
 ## Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
